@@ -1,0 +1,7 @@
+{
+  "name": "PC3-test1-Miguel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
